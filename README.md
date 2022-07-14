@@ -12,4 +12,5 @@ The data was then divided into two groups: training and testing.
 And we did experiments with three different types of autoencoders, each
 with all five clustering algorithms (kmeans-hdbscan -dbscan-hierarchical-mean
 shift) and finally we applied evaluation metrics (Silhouette, Davies Bouldin)
-to the obtained results as figure 5.4 demonstrates:
+to the obtained results as figure demonstrates:
+![alt text](https://github.com/kaouther4habib/Deep-Autoencoder-based-Clustering-of-Histopathological-Images/blob/master/images/architecture.png)
